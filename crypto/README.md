@@ -17,7 +17,7 @@ A sleek and responsive Crypto Tracker web app built with React, Tailwind CSS, an
 🛠️ Tech Stack
 - Frontend: React, Tailwind CSS
 
--Charting: Google Charts
+- Charting: Google Charts
 
 - API: CoinGecko 
 
